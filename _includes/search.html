@@ -1,10 +1,15 @@
-<!-- SEARCH -->
-<div class="searchbar search-container sans">
-    <i aria-hidden="true" class="fa fa-search"></i>
-    <input autocomplete="off" id="search-input" oninput="changeResultContainerDisp(this.value)" placeholder="Search cards..." type="text"/>
-    <label for="search-input"></label>
-    <ul id="results-container"></ul>
+<div class="card">
+    <div class="card-body">
+        <h3 class="card-title text-center">Search</h3>
+        <div class="searchbar search-container sans">
+            <i aria-hidden="true" class="fa fa-search"></i>
+            <input autocomplete="off" id="search-input" oninput="changeResultContainerDisp(this.value)" placeholder="Search cards..." type="text"/>
+            <label for="search-input"></label>
+            <ul id="results-container"></ul>
+        </div>
+    </div>
 </div>
+
 <script src="{{ 'assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 <script>
     function changeResultContainerDisp(val) {
@@ -33,3 +38,7 @@
         limit: 5
     })
 </script>
+
+
+
+<!-- SEARCH -->

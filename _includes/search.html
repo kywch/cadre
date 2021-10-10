@@ -34,7 +34,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ 'search.json' | relative_url }}',
-        searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="{{ url | relative_url }}" color: #555555;"><p><strong>></strong> {title}</p></a></li>',
+        searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="{{ url }}" color: #555555;"><p><strong> ></strong> {title}</p></a></li>',
         noResultsText: 'No results found. Try another search.',
         fuzzy: false,
         limit: 5

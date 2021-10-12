@@ -1,6 +1,8 @@
-- name: Home 
+- name: Recent 
   link: index.html
 - name: Categories 
   link: categories.html 
 - name: Archive
   link: archive.html 
+- name: Tags
+  link: tags.html

@@ -2,7 +2,8 @@
 layout: post
 title: How to Add a Categories Page
 author: Stephen Lee
-categories: [general, tutorial, jekyll]
+categories: [general, tutorial, jekyll, cog/EF]
+tags: test
 toc: true
 ---
 

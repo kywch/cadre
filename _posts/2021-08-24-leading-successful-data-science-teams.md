@@ -3,7 +3,7 @@ layout: post
 title: "6 steps for leading successful data science teams"
 author: Rama Ramakrishnan
 date: 2021-08-16
-categories: Data, Teamwork
+categories: [data, teamwork]
 tags: [leadership, best-practice]
 ---
 [https://mitsloan.mit.edu/ideas-made-to-matter/6-steps-leading-successful-data-science-teams](https://mitsloan.mit.edu/ideas-made-to-matter/6-steps-leading-successful-data-science-teams)

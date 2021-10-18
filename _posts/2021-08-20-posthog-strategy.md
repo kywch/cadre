@@ -3,7 +3,7 @@ layout: post
 title: "PostHog strategy overview"
 author: PostHog
 date: 2021-08-20
-categories: Product
+categories: product
 tags: [strategy, best-practice]
 ---
 [https://posthog.com/handbook/strategy/strategy](https://posthog.com/handbook/strategy/strategy)

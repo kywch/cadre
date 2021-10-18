@@ -3,7 +3,7 @@ layout: post
 title: "Why we use experiment quality as the main KPI for our experimentation platform"
 author: Christophe Perrin, Melanie Mueller, Lukas Vermeer
 date: 2021-09-13
-categories: Data
+categories: data
 tags: [metrics, best-practice]
 ---
 [https://medium.com/booking-product/why-we-use-experimentation-quality-as-the-main-kpi-for-our-experimentation-platform-f4c1ce381b81](https://medium.com/booking-product/why-we-use-experimentation-quality-as-the-main-kpi-for-our-experimentation-platform-f4c1ce381b81)

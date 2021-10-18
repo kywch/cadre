@@ -3,7 +3,7 @@ layout: post
 title: "Shreyas Doshi on choosing, refining, and tracking product metrics"
 author: Shreyas Doshi
 date: 2021-08-17
-categories: Product
+categories: product
 tags: metrics
 ---
 [https://mixpanel.com/blog/shreyas-doshi-product-metrics/](https://mixpanel.com/blog/shreyas-doshi-product-metrics/)

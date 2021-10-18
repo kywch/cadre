@@ -3,7 +3,7 @@ layout: post
 title: "The missing piece of the modern data stack"
 author: Benn Stancil
 date: 2021-04-22
-categories: Data
+categories: data
 tags: metrics
 ---
 [https://benn.substack.com/p/metrics-layer](https://benn.substack.com/p/metrics-layer)

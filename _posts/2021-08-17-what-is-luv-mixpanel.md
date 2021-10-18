@@ -3,7 +3,7 @@ layout: post
 title: "What is LUV? How Mixpanel used Mixpanel to define the behaviors that drive customer love"
 author: Alana Tees
 date: 2021-08-17
-categories: Product
+categories: product
 tags: [metrics, best-practice]
 ---
 [https://mixpanel.com/blog/what-is-luv-how-mixpanel-used-mixpanel-to-define-the-behaviors-that-drive-customer-love/](https://mixpanel.com/blog/what-is-luv-how-mixpanel-used-mixpanel-to-define-the-behaviors-that-drive-customer-love/)

@@ -3,7 +3,7 @@ layout: post
 title: "Measure value: The foundations of product analytics"
 author: Mixpanel
 date: 2021-08-17
-categories: Product
+categories: product
 tags: metrics
 ---
 [https://mixpanel.com/content/guide-to-product-analytics/chapter_1/](https://mixpanel.com/content/guide-to-product-analytics/chapter_1/)

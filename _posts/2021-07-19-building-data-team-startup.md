@@ -3,7 +3,7 @@ layout: post
 title: "Building a data team at a mid-stage startup: a short story"
 author: Erik Bernhardsson
 date: 2021-07-07
-categories: [Data, Teamwork]
+categories: [data, teamwork]
 tags: best-practice
 ---
 [https://erikbern.com/2021/07/07/the-data-team-a-short-story.html](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)

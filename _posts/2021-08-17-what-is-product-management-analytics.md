@@ -3,7 +3,7 @@ layout: post
 title: "What is product management analytics?"
 author: Harsh Patel
 date: 2021-08-17
-categories: Product
+categories: product
 tags: metrics
 ---
 [https://mixpanel.com/blog/what-is-product-management-analytics/](https://mixpanel.com/blog/what-is-product-management-analytics/)

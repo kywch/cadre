@@ -3,7 +3,7 @@ layout: post
 title: "My stack for research ML projects"
 author: Patrick Mineault
 date: 2021-06-09
-categories: ML/AI/NLP
+categories: ml/ai/nlp
 tags: best-practice
 ---
 [https://xcorr.net/2021/06/09/my-stack-for-research-ml-projects/](https://xcorr.net/2021/06/09/my-stack-for-research-ml-projects/)

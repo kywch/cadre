@@ -3,7 +3,7 @@ layout: post
 title: "Tools & techniques for brining machine learning research to production"
 author: Devin Conathan
 date: 2021-02-28
-categories: ML/AI/NLP
+categories: ml/ai/nlp
 tags: [mlops, best-practice]
 ---
 [PyData Chicago February Meetup youtube](https://www.youtube.com/watch?v=lmUGGeY1G68), [https://github.com/dconathan/mtg-search](https://github.com/dconathan/mtg-search)

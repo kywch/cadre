@@ -6,9 +6,7 @@ date: 2021-04-13
 categories: data
 tags: best-practice
 ---
-[https://blog.aula.education/the-80-20-rule-in-data-and-why-it-doesnt-have-to-be-that-way-7659f8456d8f](https://blog.aula.education/the-80-20-rule-in-data-and-why-it-doesnt-have-to-be-that-way-7659f8456d8f)
-
-[Kelly Burdine LinkedIn](https://www.linkedin.com/in/kellyburdine/)
+[https://blog.aula.education/the-80-20-rule-in-data-and-why-it-doesnt-have-to-be-that-way-7659f8456d8f](https://blog.aula.education/the-80-20-rule-in-data-and-why-it-doesnt-have-to-be-that-way-7659f8456d8f), [Kelly Burdine](https://www.linkedin.com/in/kellyburdine/)
 
 > **In** **just 3 months, my mighty data team of one** was able to:
 > - Stand up a data warehouse in Snowflake with separate databases for raw data and production data including the automation of branch schemas for testing

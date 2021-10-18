@@ -4,7 +4,7 @@ title: "PostHog strategy overview"
 author: PostHog
 date: 2021-08-20
 categories: Product
-tags: [strategy, best-practic]
+tags: [strategy, best-practice]
 ---
 [https://posthog.com/handbook/strategy/strategy](https://posthog.com/handbook/strategy/strategy)
 

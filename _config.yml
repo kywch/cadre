@@ -30,6 +30,10 @@ google_analytics: UA-102316-3
 #theme: jekyll-theme-cadre 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/cadre/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

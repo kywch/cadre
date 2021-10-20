@@ -3,7 +3,7 @@ layout: post
 title: "The key to successful diversity and inclusion? Belongingness"
 author: Anne-Marie Finch
 date: 2021-03-18
-categories: teamwork
+categories: [teamwork, affective]
 tags: belonging
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Type of Job is This: My First Year as Chief Product Officer"
-author: Casey Accidental
+author: Casey Winters
 date: 2021-10-18
 categories: product
 tags: [leadership, strategy, growth]

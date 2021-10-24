@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: food for thoughts
+title: excerpts for thoughts
 email: choe.kyoung@gmail.com
 description: a collection of excerpts from interesting research, blogs, events, etc...
 baseurl: "/cadre" # the subpath of your site, e.g. /blog

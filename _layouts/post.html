@@ -18,16 +18,13 @@ layout: default
           Original author: 
           {% for author in page.author %}
             <span class="post-metadata" itemprop="author" itemscope itemtype="http://schema.org/Person">
-              {{ author }} -
+              {{ author }}
             </span>
             {% if forloop.last == false %}, {% endif %}
           {% endfor %}
+           (Please visit the linked url for the original post.)
         {% endif %}
 
-        {% assign date_format = site.date_format | default: "%b %d, %Y" %}
-        <time class="post-metadata" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date: date_format }}
-        </time>
         {% if page.last_modified_at %}
           <span class="post-metadata"> ~ </span>
           {% assign mdate = page.last_modified_at | date_to_xmlschema %}

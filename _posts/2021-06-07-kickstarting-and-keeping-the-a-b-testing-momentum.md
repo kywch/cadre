@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It takes a Flaywheel to fly: Kickstarting and keeping the A/B testing momentum"
+title: "It takes a Flywheel to fly: Kickstarting and keeping the A/B testing momentum"
 author: Aleksander Fabijan et al.
 date: 2020-12-28
 categories: [data, teamwork]

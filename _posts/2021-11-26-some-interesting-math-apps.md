@@ -3,7 +3,7 @@ layout: post
 title: "Some interesting math apps"
 author: me
 date: 2021-11-26
-categories: [math education]
+categories: [math, education]
 tags: tablet-task
 ---
 

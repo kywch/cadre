@@ -4,7 +4,7 @@ title: "Transformer from scratch"
 author: Brandon Rohrer
 date: 2021-10-29
 categories: ml/ai/nlp
-tags: transformer
+tags: [transformer, to-dos]
 ---
 
 [https://e2eml.school/transformers.html](https://e2eml.school/transformers.html)

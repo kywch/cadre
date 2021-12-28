@@ -4,7 +4,7 @@ title: "Training spatial cognition enhances mathematical learning in a randomize
 author: Nicholas Judd & Torkel Klinberg
 date: 2021-05-20
 categories: [research, education, math]
-tags: [tablet-task, assessment]
+tags: [tablet-task, assessment, improve-learning]
 ---
 
 [https://www.nature.com/articles/s41562-021-01118-4](https://www.nature.com/articles/s41562-021-01118-4)

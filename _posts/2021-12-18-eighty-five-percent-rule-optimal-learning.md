@@ -4,7 +4,7 @@ title: "The eighty five percent rule for optimal learning"
 author: Robert C. Wilson, Amitai Shenhav, Mark Straccia, & Jonathan D. Cohen
 date: 2019-11-05
 categories: [research, ml/ai/nlp, education]
-tags: [adaptive]
+tags: [adaptive, improve-learning]
 ---
 
 [https://www.nature.com/articles/s41467-019-12552-4](https://www.nature.com/articles/s41467-019-12552-4)

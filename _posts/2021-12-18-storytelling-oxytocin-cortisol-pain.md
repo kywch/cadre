@@ -4,7 +4,7 @@ title: "Storytelling increases oxytocin and positive emotions and decreases cort
 author: Guiherme Brockington et al.
 date: 2021-06-01
 categories: [research, affective]
-tags: hapiness
+tags: happiness
 ---
 
 [https://www.pnas.org/content/118/22/e2018409118](https://www.pnas.org/content/118/22/e2018409118)

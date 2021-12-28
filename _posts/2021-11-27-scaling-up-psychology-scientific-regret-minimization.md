@@ -4,7 +4,7 @@ title: "Scaling up psychology via Scientific Regret Minimization"
 author: Mayank Agrawal, Joshua C. Peterson & Thomas L. Griffiths
 date: 2020-04-21
 categories: [research, ml/ai/nlp, cognitive, statistics]
-tags: [best-practice, to-do]
+tags: [best-practice, to-dos]
 ---
 
 [https://www.pnas.org/content/117/16/8825](https://www.pnas.org/content/117/16/8825)

@@ -3,7 +3,7 @@ layout: post
 title: "Predicting social tipping and norm change in controlled experiments"
 author: James Andreoni, Nikos Nikiforakis, & Simon Siegenthaler
 date: 2021-04-20
-categories: [research, cognitive, socia]
+categories: [research, cognitive, social]
 tags: [choicelogy, innovation]
 ---
 

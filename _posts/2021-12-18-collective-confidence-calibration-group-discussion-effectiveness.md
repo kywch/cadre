@@ -4,7 +4,7 @@ title: "Wise teamwork: Collective confidence calibration predicts the effectiven
 author: Ike Silver, Barbara A. Mellers, Philip E. Tetlock
 date: 2021-05-11
 categories: [research, teamwork]
-tags: [best-practice, strategy]
+tags: [best-practice, strategy, metacognition]
 ---
 
 [https://www.sciencedirect.com/science/article/abs/pii/S0022103121000603](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000603)

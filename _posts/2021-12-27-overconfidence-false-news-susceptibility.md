@@ -4,7 +4,7 @@ title: "Overconfidence in news judgments is associated with false news susceptib
 author: Benjamin A. Lyons,
 date: 2021-06-08
 categories: [research, cognitive, social]
-tags: choicelogy
+tags: [choicelogy, metacognition]
 ---
 
 [https://www.pnas.org/content/118/23/e2019527118](https://www.pnas.org/content/118/23/e2019527118)

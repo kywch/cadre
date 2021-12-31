@@ -2,7 +2,7 @@
 layout: post
 title: "20 underrated qualities to look for in candidates - and 50+ interview questions to suss them out"
 author: First Round Review
-date: 202
+date: 2021-09-21
 categories: teamwork
 tags: recruiting
 ---

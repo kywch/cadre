@@ -3,7 +3,7 @@ layout: post
 title: "Apps as learning tools: A systematic review"
 author: Shayl F. Griffith, et al.
 date: 2020-01-01
-categories: [research, education, math, read]
+categories: [research, education, math, reading]
 tags: [tablet-task, improve-learning, review]
 ---
 

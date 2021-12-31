@@ -4,7 +4,7 @@ title: "A longer shortlist increases the consideration of female candidates in m
 author: Brian J. Lucas et al. 
 date: 2021-01-18
 categories: [research, teamwork]
-tags: [career, recruiting]
+tags: [career, gender]
 ---
 
 [https://www.nature.com/articles/s41562-020-01033-0](https://www.nature.com/articles/s41562-020-01033-0)

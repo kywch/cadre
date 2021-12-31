@@ -4,7 +4,7 @@ title: "Follow my lead: Assertive cheap talk and the gender gap"
 author: Shanthi Manian, Ketki Sheth
 date: 2021-02-17
 categories: [research, cognitive, teamwork]
-tags: [choicelogy, leadership]
+tags: [choicelogy, leadership, gender]
 ---
 
 [https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3837](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3837)

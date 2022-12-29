@@ -4,7 +4,7 @@ title: "23 tactical company building lessons, leanred from scaling Stripe & Noti
 author: First Round Review, Cristina Cordova
 date: 2022-03-22
 categories: [product, venture]
-tags: [strategy, career]
+tags: [strategy, career, stripe]
 ---
 
 [https://review.firstround.com/23-tactical-company-building-lessons-learned-from-scaling-stripe-and-notion](https://review.firstround.com/23-tactical-company-building-lessons-learned-from-scaling-stripe-and-notion)

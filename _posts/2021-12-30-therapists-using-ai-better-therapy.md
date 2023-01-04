@@ -4,7 +4,7 @@ title: "The therapists using AI to make therapy better"
 author: Charlotte Jee, Will Douglas Heaven
 date: 2021-12-06
 categories: [research, affective, ml/ai/nlp]
-tags: emotion
+tags: mental-health
 ---
 
 [https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/](https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/)

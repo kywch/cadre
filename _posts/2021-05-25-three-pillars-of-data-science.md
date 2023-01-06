@@ -4,6 +4,7 @@ title: "Three pillars of data science"
 author: Cameron Davidson-Pilon
 date: 2018-06-20
 categories: data
+tags: causal-inference
 ---
 
 [https://dataorigami.net/blogs/napkin-folding/three-pillars-of-data-science](https://dataorigami.net/blogs/napkin-folding/three-pillars-of-data-science)

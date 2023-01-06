@@ -4,7 +4,7 @@ title: "What is causal inference? An intro for data scientists"
 author: Hugo Bowne-Anderson, Mike Loukides
 date: 2022-01-18
 categories: [data, statistics]
-tags: [metrics, analytics]
+tags: [metrics, analytics, causal-inference]
 ---
 
 [https://www.oreilly.com/radar/what-is-causal-inference/](https://www.oreilly.com/radar/what-is-causal-inference/)

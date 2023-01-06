@@ -4,7 +4,7 @@ title: "[Book] Statistical Rethinking"
 author: Richard McElreath
 date: 2018-07-14
 categories: statistics
-tags: bayesian
+tags: [bayesian, causal-inference]
 ---
 
 [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)

@@ -2,7 +2,7 @@
 layout: post
 title: "PEER: A collaborative language model"
 author: Timo Schick, Jane Dwivedi-Yu, Zhengbao Jiang, et al.
-date: 2022-08
+date: 2022-08-24
 categories: ml/ai/nlp
 tags: large-language-model
 ---

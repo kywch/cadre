@@ -4,7 +4,7 @@ title: "Development of children’s math attitudes: Gender differences, key soci
 author: Susan C. Levine, Nancy Pantoja
 date: 2021-10-26
 categories: [research, affective, math]
-tags: [academic-motivation, gender
+tags: [academic-motivation, gender]
 ---
 
 [https://www.sciencedirect.com/science/article/abs/pii/S0273229721000526](https://www.sciencedirect.com/science/article/abs/pii/S0273229721000526)
